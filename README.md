@@ -1,11 +1,3 @@
-## About The Project
-
-![PriceTracker](https://res.cloudinary.com/mayur28/image/upload/v1681217885/PriceTrackerResponsive_oljyzt.png))
-
-As you have already know from my [portfolio](https://www.mayuragarwal.in/) that my focussed is on creating the user-friendly websites that deliver over the top experience. It delivers clean and easy-to-use user-experience with excellent responsiveness. Some key points which I keep in mind while developing the projects:
-
-- Must provide clean and easy-to-use experience.
-- Must provide better responsiveness for all screen sizes.
 
 ### Features
 
