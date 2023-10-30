@@ -1,36 +1,3 @@
-<br />
-<p align="center">
-    <img src="https://res.cloudinary.com/mayur28/image/upload/v1680331147/pricetracker-high-resolution-logo-color-on-transparent-background_tmy5iy.png" alt="Logo" width="150" height="80">
-  <h3 align="center">Price Tracker</h3>
-  <h6 align="center">Because Every Rupee Matters</h6>
-  <p align="center">
-   A clean and easy-to-use web experience!
-    <br />
-    <a href="https://www.trackprice.co.in/"><strong>View Website»</strong></a>
-    <br />
-  </p>
-</p>
-
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#run-the-development-server">Run the development server</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 ## About The Project
 
 ![PriceTracker](https://res.cloudinary.com/mayur28/image/upload/v1681217885/PriceTrackerResponsive_oljyzt.png))
@@ -86,8 +53,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `src/app.js`. The page auto-updates as you edit the file.
 
-## Contact
 
-Connect with me - [drop message](https://www.trackprice.co.in/contact)
-
-Portfolio Link: [Portfolio](https://www.mayuragarwal.in/)
